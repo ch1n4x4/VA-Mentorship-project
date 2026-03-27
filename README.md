@@ -30,4 +30,4 @@ The objective of this final part is to develop a secure backend to replace the v
 
 
 ## Steps
-<a href = "">VA Mentorship lab</a>
+<a href = "https://github.com/ch1n4x4/VA-Mentorship-project/blob/main/Copy%20of%20CHINAZA_NNAMANI_VA_INITIATIVES_ETHICAL_HACKING_PROJECT.pdf">VA Mentorship lab</a>
